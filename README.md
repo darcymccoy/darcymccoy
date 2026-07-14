@@ -9,6 +9,6 @@ Software Engineering student graduating spring 2027.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/darcymccoy/merge-conflict-action/pull/27) in [darcymccoy/merge-conflict-action](https://github.com/darcymccoy/merge-conflict-action)
-2. ❌ Closed PR [#34](https://github.com/darcymccoy/merge-conflict-action/pull/34) in [darcymccoy/merge-conflict-action](https://github.com/darcymccoy/merge-conflict-action)
+1. 🎉 Merged PR [#44](https://github.com/darcymccoy/merge-conflict-action/pull/44) in [darcymccoy/merge-conflict-action](https://github.com/darcymccoy/merge-conflict-action)
+2. 💪 Opened PR [#44](https://github.com/darcymccoy/merge-conflict-action/pull/44) in [darcymccoy/merge-conflict-action](https://github.com/darcymccoy/merge-conflict-action)
 <!--END_SECTION:activity-->
