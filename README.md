@@ -9,6 +9,6 @@ Software Engineering student graduating spring 2027.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/darcymccoy/merge-conflict-action/pull/44) in [darcymccoy/merge-conflict-action](https://github.com/darcymccoy/merge-conflict-action)
-2. 💪 Opened PR [#44](https://github.com/darcymccoy/merge-conflict-action/pull/44) in [darcymccoy/merge-conflict-action](https://github.com/darcymccoy/merge-conflict-action)
+1. 🎉 Merged PR [#252](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25/pull/252) in [apple-pie-club/apple-pie-club-soen341_project_w25](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25)
+2. 💪 Opened PR [#252](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25/pull/252) in [apple-pie-club/apple-pie-club-soen341_project_w25](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25)
 <!--END_SECTION:activity-->
