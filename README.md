@@ -9,6 +9,6 @@ Software Engineering student graduating spring 2027.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#252](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25/pull/252) in [apple-pie-club/apple-pie-club-soen341_project_w25](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25)
-2. 💪 Opened PR [#252](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25/pull/252) in [apple-pie-club/apple-pie-club-soen341_project_w25](https://github.com/apple-pie-club/apple-pie-club-soen341_project_w25)
+1. 💪 Opened PR [#105](https://github.com/team-exception-handlers/TransitSync/pull/105) in [team-exception-handlers/TransitSync](https://github.com/team-exception-handlers/TransitSync)
+2. ℹ️ Assigned issue [#92](https://github.com/team-exception-handlers/TransitSync/issues/92) in [team-exception-handlers/TransitSync](https://github.com/team-exception-handlers/TransitSync)
 <!--END_SECTION:activity-->
