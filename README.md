@@ -9,6 +9,6 @@ Software Engineering student graduating spring 2027.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#75](https://github.com/team-exception-handlers/TransitSync/issues/75) in [team-exception-handlers/TransitSync](https://github.com/team-exception-handlers/TransitSync)
-2. 🔒 Closed issue [#44](https://github.com/team-exception-handlers/TransitSync/issues/44) in [team-exception-handlers/TransitSync](https://github.com/team-exception-handlers/TransitSync)
+1. 💪 Opened PR [#202](https://github.com/team-exception-handlers/TransitSync/pull/202) in [team-exception-handlers/TransitSync](https://github.com/team-exception-handlers/TransitSync)
+2. ℹ️ Assigned issue [#79](https://github.com/team-exception-handlers/TransitSync/issues/79) in [team-exception-handlers/TransitSync](https://github.com/team-exception-handlers/TransitSync)
 <!--END_SECTION:activity-->
